@@ -7,4 +7,4 @@ spring:
     username: neuedu
     password: Goway730208
     
-env:prod
+env: prod
