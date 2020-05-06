@@ -6,5 +6,3 @@ spring:
     port: 5672
     username: neuedu
     password: Goway730208
-    
-env: prod
