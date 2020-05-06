@@ -9,9 +9,4 @@ spring:
     port: 5672
     username: neuedu
     password: Goway730208
-  cloud:
-    config:
-      discovery:
-        enabled: true
-        service-id: CONFIGSERVER
-      profile: dev
+
