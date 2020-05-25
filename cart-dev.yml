@@ -1,9 +1,1 @@
-server:
-  port: 8082
-spring:
-  rabbitmq:
-    host: 115.29.168.73
-    port: 5672
-    username: neuedu
-    password: Goway730208
 
